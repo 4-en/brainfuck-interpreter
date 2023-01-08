@@ -1,0 +1,6 @@
+# ignore test files
+tests/
+
+#ignore .vscode
+.vscode/
+
